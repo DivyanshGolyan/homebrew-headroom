@@ -7,7 +7,7 @@ cask "headroom" do
   desc "Claude quota forecasts in the menu bar"
   homepage "https://github.com/DivyanshGolyan/claude-headroom"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Headroom.app"
 end
