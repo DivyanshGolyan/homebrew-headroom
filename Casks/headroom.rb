@@ -10,4 +10,6 @@ cask "headroom" do
   depends_on macos: :ventura
 
   app "Headroom.app"
+
+  uninstall quit: "com.divyanshgolyan.headroom"
 end
