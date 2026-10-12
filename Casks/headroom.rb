@@ -1,6 +1,6 @@
 cask "headroom" do
-  version "1.3.0"
-  sha256 "fa538cdc1ff523feebbdf847432456165c5784ae2774c8c09ecf70d25973ea99"
+  version "1.3.1"
+  sha256 "4e1c5193338133eeded021364a4545edcb0ee01d930bcebe23ed087cc881db3d"
 
   url "https://github.com/DivyanshGolyan/claude-headroom/releases/download/v#{version}/Headroom.zip"
   name "Headroom"
